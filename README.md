@@ -68,14 +68,5 @@ The system uses **smart meters, IoT sensors, and cloud-based analytics** to moni
 
 ## Conclusion
 The **Reduction of Electricity Theft Using IoT** project provides an efficient and scalable solution to monitor, detect, and prevent unauthorized power consumption. By integrating IoT and machine learning, the system can significantly **reduce power theft**, making electricity distribution **more reliable and cost-effective**.
-
----
-
-### Repository Details
-- **Author**: Kavya
-- **Technologies Used**: IoT (Arduino), Smart Meter, Sensors, Cloud Platforms
-- **Status**: Prototype/Working Model
-- **License**: MIT License
-
-Feel free to contribute and enhance the project! 🚀
+Feel free to contribute and enhance the project! 
 
